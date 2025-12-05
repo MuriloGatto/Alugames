@@ -2,6 +2,8 @@
 
 Este projeto é um simulador simples de aluguel e devolução de jogos, desenvolvido com JavaScript, HTML e CSS. Ele demonstra a manipulação do DOM (Document Object Model) para alterar o estado visual de elementos na página com base em interações do usuário.
 
+![imagemTelaInicial](./img/image.png)
+
 ## Funcionalidades
 
 *   **Alterar Status do Jogo:** Ao clicar em um jogo, seu status visual muda entre "Alugado" e "Disponível".
